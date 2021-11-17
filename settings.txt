@@ -1,0 +1,10 @@
+1
+False
+0.075
+3
+False
+https://blablabla.org
+https://blablabla.info
+https://blablabla.club
+https://blabla.com
+https://blablabla/news
